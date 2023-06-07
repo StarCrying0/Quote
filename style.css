@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+  }
+  div{
+    color:white;
+    width:50%;
+    margin-left:25%;
+    font-family: 'Libre Baskerville', serif;
+  }
+  #image-meme{
+    border:5px solid white;
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+  }
+  #name{
+    text-transform:capitalize;
+    text-align: center;
+  }
+  #quote{
+    text-align: center;
+  }
+  #owner{
+    color:white;
+    position: absolute;
+    right:20px;
+  }
