@@ -6,6 +6,8 @@ body{
     width:50%;
     margin-left:25%;
     font-family: 'Libre Baskerville', serif;
+    display:flex;
+    flex-direction: column;
   }
   #image-meme{
     border:5px solid white;
@@ -19,6 +21,7 @@ body{
   }
   #quote{
     text-align: center;
+    margin:0;
   }
   #owner{
     color:white;
