@@ -20,12 +20,19 @@ body{
     text-align: center;
   }
   #quote{
-    text-align: center;
     margin:0;
+    text-align: center;
   }
   #owner{
     color:white;
     position: absolute;
     right:20px;
     bottom:5px;
+  }
+
+  @media(max-width:600px){
+    div{
+      width:100%;
+      margin-left:0px;
+    }
   }
